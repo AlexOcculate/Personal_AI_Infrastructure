@@ -1,3 +1,7 @@
+- [Back to __MASTER__](https://github.com/AlexOcculate/__MASTER__/blob/main/README.md)
+
+---
+
 <div align="center">
 
 <picture>
